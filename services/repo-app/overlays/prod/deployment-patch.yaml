@@ -11,4 +11,4 @@ spec:
             - name: ENV
               value: "PROD"
             - name: APP_VERSION
-              value: "81"
+              value: "022defc"
